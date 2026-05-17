@@ -1,4 +1,4 @@
-# 👋 こんにちは | Hello, I'm Ranjeet Singh Sahni
+# 👋 こんにちは | Hello, I'm Ranjeet Singh
 
 <div align="center">
 
