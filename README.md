@@ -1,5 +1,3 @@
-# 👋 こんにちは | Hello, I'm Ranjeet Singh
-
 <div align="center">
 
 ### 🚀 AI Engineer • Data Analyst • Power Platform Dev • Future Tech Professional in Japan 🇯🇵
