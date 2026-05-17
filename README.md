@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 AI Engineer • Data Analyst • Power Platform Architect • Future Tech Professional in Japan 🇯🇵
+### 🚀 AI Engineer • Data Analyst • Power Platform Dev • Future Tech Professional in Japan 🇯🇵
 
 </div>
 
