@@ -50,7 +50,7 @@ My long-term vision is to combine **AI, Data Science, and Japanese language prof
 ### ⚡ Power Platform
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ---
 
