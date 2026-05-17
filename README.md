@@ -12,12 +12,10 @@
 
 I am a technology professional with **5+ years of experience** in building enterprise-grade solutions across:
 
-- 🤖 Artificial Intelligence & Machine Learning
+- 🤖 Artificial Intelligence & Gen AI
 - 📊 Data Analytics & Business Intelligence
 - ⚡ Microsoft Power Platform
-- 🗄️ SQL Server & Data Engineering
 - 🔄 Automation & Workflow Optimization
-- 🌐 Full-Stack Web and Mobile Development
 
 Currently, I work as a **Senior Power Platform Developer and Data Analyst**, designing scalable applications, dashboards, and automations for global organizations.
 
@@ -28,7 +26,6 @@ My long-term vision is to combine **AI, Data Science, and Japanese language prof
 ## 🇯🇵 Japanese Language Journey
 
 - 📚 Actively studying Japanese (JLPT Track)
-- ✍️ Completed Hiragana and Katakana
 - 🎯 Goal: Achieve professional fluency and work in Japan
 - 🗾 Dream: Build a successful technology career in Japan
 
@@ -44,18 +41,6 @@ My long-term vision is to combine **AI, Data Science, and Japanese language prof
 - 📱 React Native Mobile Development
 - 🎮 Game Development with Unity and Houdini
 - 🇯🇵 Japanese Language Mastery
-
----
-
-## 💼 Professional Experience
-
-```text
-5+ Years of Industry Experience
-Senior Power Platform Developer
-Data Analyst & BI Specialist
-AI Enthusiast and Product Builder
-Founder @ Yestechie
-```
 
 ---
 
@@ -89,53 +74,11 @@ Founder @ Yestechie
 
 ---
 
-## 🏆 Key Strengths
-
-- Enterprise Application Development
-- Data Modeling & SQL Optimization
-- Dashboard Development & BI Reporting
-- AI Product Prototyping
-- Workflow Automation
-- Low-Code/No-Code Architecture
-- Problem Solving & System Design
-
----
-
-## 🌟 Featured Projects
-
-- 🤖 AI-powered productivity tools
-- 📊 Advanced analytics dashboards
-- ⚡ Enterprise Power Platform solutions
-- 📱 Mobile applications for personal productivity
-- 🧠 BrainFrontier – AI-driven neuroscience newsletter
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Transition into a dedicated AI Engineer role
-- 🇯🇵 Secure a technology position in Japan
-- 🧠 Build impactful AI products
-- 🎮 Develop and publish indie games
-- 📈 Launch scalable remote income streams
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanjeetSinghSahni&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanjeetSinghSahni&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/ranjeet-singh-sahni
+- 💼 LinkedIn: www.linkedin.com/in/ranjeetsingh01
 - 🌍 Portfolio: https://yestechie.team
-- 🧠 Newsletter: https://brainfrontier.io
-- 📧 Email: your-email@example.com
+- 📧 Email: singhranjeet5200@gmail.com
 
 ---
 
