@@ -44,7 +44,7 @@ My long-term vision is to combine **AI, Data Science, and Japanese language prof
 
 ### 📊 Analytics / BI
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### ⚡ Power Platform
