@@ -35,23 +35,16 @@ My long-term vision is to combine **AI, Data Science, and Japanese language prof
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 📊 Analytics / BI
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### ⚡ Power Platform
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=powerautomate&logoColor=white)
-
 ---
 
 ## 🌐 Connect With Me
